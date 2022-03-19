@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+{% include 'partials/head.mustache' %}
+<body>
+    {% include 'partials/nav.mustache' %}
+   
+    {{content | safe}}
+    {% include 'partials/footer.mustache' %}
+</body>
+</html>

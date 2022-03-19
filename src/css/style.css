@@ -1,0 +1,93 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html,
+body {
+  height: 100%;
+  background-color: pink;
+}
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  text-align: center;
+}
+h1 {
+  font-size: 2em;
+  color: #222;
+}
+p {
+  color: #250505;
+  margin: 0.5em 2rem;
+}
+
+img {
+  height: 400px;
+  width: auto;
+  border-radius: 25px;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  font-size: 2em;
+  justify-content: space-around;
+}
+
+li {
+  list-style: none;
+}
+li a {
+  text-decoration: none;
+}
+a:hover {
+  background-color: rgba(34, 34, 34, 0.527);
+  color: rgb(251, 251, 251);
+  padding: 2px;
+}
+
+.wrapper {
+  display: flex;
+}
+.content {
+  font-size: 24px;
+  justify-content: center;
+  line-height: 1.5;
+  text-align: justify;
+}
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: justify;
+  margin-top: 5px;
+}
+.food-img {
+  width: 20%;
+  height: 300px;
+}
+.normal-img {
+  margin: 5px auto 0 auto;
+}
+
+.nav-bar,
+.nav-bar home,
+ul > nav-bar {
+  display: block;
+
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+.nav-bar home:hover {
+  background-color: #222;
+  color: #fff;
+}
+
+footer {
+  margin-top: auto;
+  background-color: coral;
+  color: whitesmoke;
+  text-align: center;
+  padding: 0.5rem;
+}

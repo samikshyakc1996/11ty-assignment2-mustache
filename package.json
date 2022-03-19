@@ -1,0 +1,20 @@
+{
+  "name": "11ty_ass2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --input=src --serve",
+    "build": "npx @11ty/eleventy --input=src"
+  },
+  "keywords": [],
+  "author": "Samikshya K C",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.7",
+    "mustache": "^4.2.0"
+  }
+}
