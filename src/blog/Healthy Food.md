@@ -5,6 +5,8 @@ layout: "blog.njk"
 
 # Healthy-diet
 
+<a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
+
 ## Food is the most important part of our lives. Food is what, that keeps us going, food is for what we keep going.
 
 <div class="wrapper">

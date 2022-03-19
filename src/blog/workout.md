@@ -3,6 +3,11 @@ title: Workout
 layout: "blog.njk"
 ---
 
+# Workout
+
+<a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
+
+
 <p>
 Just Like a <em> healthy meal</em>, getting your body moving is also equally important.
 While maintaining a healthy weight is a rising concern, keeping you out of diseases is the number one reason why we should get some exercise.

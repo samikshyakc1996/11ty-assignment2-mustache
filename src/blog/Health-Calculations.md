@@ -2,6 +2,10 @@
 title: Health-Calculations
 ---
 
+# Health-Calculations
+
+<a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
+
 # This is about calculating how healthy your body currently is.
 
 It is crucial to know how healthy your body is in the current state.
