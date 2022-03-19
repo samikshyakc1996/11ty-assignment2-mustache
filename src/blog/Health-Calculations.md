@@ -2,8 +2,7 @@
 title: Health-Calculations
 ---
 
-# Health-Calculations
-
+<h1 class="title">Health-Calculations</h1>
 <a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
 
 # This is about calculating how healthy your body currently is.

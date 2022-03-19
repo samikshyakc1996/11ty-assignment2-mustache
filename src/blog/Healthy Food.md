@@ -3,7 +3,7 @@ title: Healthy Food
 layout: "blog.njk"
 ---
 
-# Healthy-diet
+<h1 class="title">Healthy-diet</h1>
 
 <a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
 

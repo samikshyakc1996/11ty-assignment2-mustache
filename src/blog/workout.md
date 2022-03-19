@@ -3,10 +3,9 @@ title: Workout
 layout: "blog.njk"
 ---
 
-# Workout
+<h1 class="title">Workout</h1>
 
 <a href="/" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Home</a>
-
 
 <p>
 Just Like a <em> healthy meal</em>, getting your body moving is also equally important.

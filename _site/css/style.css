@@ -44,6 +44,7 @@ a:hover {
   background-color: rgba(34, 34, 34, 0.527);
   color: rgb(251, 251, 251);
   padding: 2px;
+  text-decoration: none;
 }
 
 .wrapper {
@@ -73,7 +74,7 @@ p {
 .nav-bar home,
 ul > nav-bar {
   display: block;
-
+  background-color: #286090;
   color: #222;
   margin: 0;
   padding: 0;
@@ -82,9 +83,14 @@ ul > nav-bar {
   background-color: #222;
   color: #fff;
 }
+.title {
+  background-color: #286090;
+  color: #fff;
+  margin-top: 0;
+}
 
 footer {
-  margin-top: auto;
+  margin-top: auto 0 0 0;
   background-color: #286090;
   color: whitesmoke;
   text-align: center;
